@@ -27,9 +27,9 @@ My name is Aman Singh, Just another tech Enthusiast. Happy to collab with people
 
 ## Some stats, just to showoff
 <a href="https://github.com/amansinghtech/amansinghtech">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amansinghtech&theme=radical&show_icons=true" alt="Aman's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansinghtech&theme=radical&show_icons=true" alt="Aman's GitHub Stats" />
 </a>
 
 ## Languanges I use commonly
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansinghtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansinghtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
