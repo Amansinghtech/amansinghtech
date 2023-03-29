@@ -34,4 +34,4 @@ My name is Aman Singh, Just another tech Enthusiast. Happy to collab with people
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansinghtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Snake animation](https://github.com/Amansinghtech/amansinghtech/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/amansinghtech/amansinghtech/blob/output/github-contribution-grid-snake.svg)
