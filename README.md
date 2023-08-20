@@ -28,11 +28,10 @@ My name is Aman Singh, Just another tech Enthusiast. Happy to collab with people
 ## Some stats, just to showoff
 <a href="https://github.com/amansinghtech/amansinghtech">
   
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansinghtech&theme=radical&rank_icon=github&show_icons=true%22%20alt=%22Aman%27s%20GitHub%20Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansinghtech&theme=radical&rank_icon=github&include_all_commits=true&show_icons=true%22%20alt=%22Aman%27s%20GitHub%20Stats" />
 </a>
 
 ## Languanges I use commonly
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansinghtech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amansinghtech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Snake animation](https://github.com/amansinghtech/amansinghtech/blob/output/github-contribution-grid-snake.svg)
