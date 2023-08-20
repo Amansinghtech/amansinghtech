@@ -27,7 +27,8 @@ My name is Aman Singh, Just another tech Enthusiast. Happy to collab with people
 
 ## Some stats, just to showoff
 <a href="https://github.com/amansinghtech/amansinghtech">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansinghtech&theme=radical&show_icons=true" alt="Aman's GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amansinghtech&theme=radical&rank_icon=github&show_icons=true%22%20alt=%22Aman%27s%20GitHub%20Stats" />
 </a>
 
 ## Languanges I use commonly
